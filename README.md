@@ -1,5 +1,9 @@
-# Sample data 
+# Generating Figure Captions as a Text Summarization Task
 
+We provide two suplementary data: (*i*) 200 data an (*ii*)
+
+
+# Sample data 
 We randomly select 200 data samples in the collected dataset that we use in the paper. 
 
 ## JSON Data Format
